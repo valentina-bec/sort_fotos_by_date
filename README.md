@@ -1,4 +1,6 @@
-# Sort
+
+# Sort Images by Date
+ 
 ###### 2.0.0 Version 
 - extract pictures / videos  from dir
 - read the creation time
