@@ -7,5 +7,5 @@
 - it creates a report
 
 nice to have: 
-- [] creation time from heic, gif and json
-- [] :thinking:
+- [ ] creation time from heic, gif and json
+- [ ] :thinking:
